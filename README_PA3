@@ -1,0 +1,26 @@
+# Portfolio Assessment 3
+
+This repository contains the final files for Portfolio Assessment 3.
+
+## Contents
+- Jupyter notebook for model development
+- Traditional machine learning models
+- Deep learning LSTM model
+- Evaluation outputs and comparison results
+- Final report PDF
+
+## Dataset
+Cleaned UR3 CobotOps dataset
+
+## Tools Used
+- Google Colab
+- Python
+- Scikit-learn
+- TensorFlow / Keras
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+
+## Notes
+The main coding, testing, and debugging were completed in Google Colab. This repository is used to store and present the final portfolio files.
